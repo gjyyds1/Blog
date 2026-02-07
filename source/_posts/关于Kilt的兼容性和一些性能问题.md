@@ -6,7 +6,7 @@ tags:
 
 # 前言
 
-**`Kilt` 是一个让 `Forge Mod` 在 `Fabric` 上加载的.`Mod` ~~你为什么要这样做？~~**
+**`Kilt` 是一个让 `Forge Mod` 在 `Fabric` 上加载的 `Mod` ~~你为什么要这样做？~~**
 
 **`Kilt` 目前只支持 `Fabric 1.20.1` 并且需要 `Fabric Loader 0.18.0` 及以上版本**
 
